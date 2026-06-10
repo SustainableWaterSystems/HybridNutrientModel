@@ -26,9 +26,9 @@ Script_Z_Nutrients_Z.py: Applying mass balance constraint for historic period (1
 
 Script_Z_Nutrients_Z2.py: Applying mass balance constraint for period 2010-2015 and TP
 
-Script_Z_Nutrients_Z3.py: Applying mass balance constrain for period 2015-2070 and TP
+Script_Z_Nutrients_Z3.py: Applying mass balance constraint for period 2015-2070 and TP
 
-Script_Z_Nutrients_Z4.py: Applying mass balance constrain for historic period (1980-2010) and TN
+Script_Z_Nutrients_Z4.py: Applying mass balance constraint for historic period (1980-2010) and TN
 
 Script_Z_Nutrients_Z5.py: Applying mass balance constraint for period 2010-2015 and TN
 

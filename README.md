@@ -42,14 +42,14 @@ Script_Nutrients_SSPs_Merge_N.py: Combining the hybrid outputs for 2010-2015 and
 
 References
 
-Beusen, A.H.W., Bouwman, A.F., 2022a. Future projections of river nutrient export to the global coastal ocean show persisting nitrogen and phosphorus distortion. Frontiers in Water 4, 893585. https://doi.org/10.3389/FRWA.2022.893585/TEXT
+Beusen, A.H.W., van Beek, L.P.H., Bouwman, A.F., Mogollón, J.M., Middelburg, J.J., 2015. Coupling global models for hydrology and nutrient loading to simulate nitrogen and phosphorus retention in surface water - Description of IMAGE-GNM and analysis of performance. Geosci Model Dev 8, 4045–4067. https://doi.org/10.5194/GMD-8-4045-2015
 
 Beusen, A.H.W., Bouwman, A.F., van Beek, L.P.H., Mogollón, J.M., Middelburg, J.J., 2016. Global riverine N and P transport to ocean increased during the 20th century despite increased retention along the aquatic continuum. Biogeosciences 13, 2441–2451. https://doi.org/10.5194/BG-13-2441-2016
 
-Beusen, A.H.W., Doelman, J.C., van Beek, L.P.H., van Puijenbroek, P.J.T.M., Mogollón, J.M., van Grinsven, H.J.M., Stehfest, E., van Vuuren, D.P., Bouwman, A.F., 2022b. Exploring river nitrogen and phosphorus loading and export to global coastal waters in the Shared Socio-economic pathways. Global Environmental Change 72, 102426. https://doi.org/10.1016/J.GLOENVCHA.2021.102426
+Beusen, A.H.W., Doelman, J.C., van Beek, L.P.H., van Puijenbroek, P.J.T.M., Mogollón, J.M., van Grinsven, H.J.M., Stehfest, E., van Vuuren, D.P., Bouwman, A.F., 2022a. Exploring river nitrogen and phosphorus loading and export to global coastal waters in the Shared Socio-economic pathways. Global Environmental Change 72, 102426. https://doi.org/10.1016/J.GLOENVCHA.2021.102426
 
-Beusen, A.H.W., van Beek, L.P.H., Bouwman, A.F., Mogollón, J.M., Middelburg, J.J., 2015. Coupling global models for hydrology and nutrient loading to simulate nitrogen and phosphorus retention in surface water - Description of IMAGE-GNM and analysis of performance. Geosci Model Dev 8, 4045–4067. https://doi.org/10.5194/GMD-8-4045-2015
-
-Graham, D.J., Beusen, A.H.W., Bierkens, M.F.P., van Vliet, M.T.H., 2026. Effects of droughts and warm months on phosphorus and nitrogen concentrations in surface waters globally. J Hydrol (Amst) 681, 136635. https://doi.org/10.1016/J.JHYDROL.2026.136635
+Beusen, A.H.W., Bouwman, A.F., 2022b. Future projections of river nutrient export to the global coastal ocean show persisting nitrogen and phosphorus distortion. Frontiers in Water 4, 893585. https://doi.org/10.3389/FRWA.2022.893585/TEXT
 
 Graham, D.J., Bierkens, M.F.P., van Vliet, M.T.H., 2024. Impacts of droughts and heatwaves on river water quality worldwide. J Hydrol (Amst) 629, 130590. https://doi.org/10.1016/J.JHYDROL.2023.130590
+
+Graham, D.J., Beusen, A.H.W., Bierkens, M.F.P., van Vliet, M.T.H., 2026. Effects of droughts and warm months on phosphorus and nitrogen concentrations in surface waters globally. J Hydrol (Amst) 681, 136635. https://doi.org/10.1016/J.JHYDROL.2026.136635
